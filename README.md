@@ -1,2 +1,2 @@
-# premmyEpicCode69.github.io
+# PremmyEpicCode69.github.io
 Project html&amp;css
